@@ -1,0 +1,50 @@
+name: morning
+on:
+  schedule:
+    - cron: "0 21 * * 0-4"   # 06:00 JST 月〜金
+  workflow_dispatch:
+concurrency:
+  group: jpmm
+  cancel-in-progress: false
+env:
+  NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Fetch movers
+        run: python scripts/fetch_movers.py
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "data: movers $(date -u +%F)" || echo "nothing to commit"
+          git pull --rebase
+          git push
+      - name: Build page
+        run: python scripts/build_page.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
+      - name: Notify failure
+        if: failure()
+        run: |
+          curl -sS -X POST https://ntfy.sh/ -H 'Content-Type: application/json' \
+            -d "{\"topic\":\"$NTFY_TOPIC\",\"title\":\"朝の日本株チェック: 取得失敗\",\"message\":\"株価データの取得に失敗しました。GitHub Actionsのログを確認してください。\",\"priority\":4,\"click\":\"https://github.com/${{ github.repository }}/actions\"}"
