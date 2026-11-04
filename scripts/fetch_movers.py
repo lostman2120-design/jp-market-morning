@@ -156,6 +156,8 @@ def fetch_indices() -> list[dict]:
         item = {"name": name, "symbol": sym, "close": None, "change_pct": None}
         try:
             h = yf.Ticker(sym).history(period="7d", interval="1d", auto_adjust=False)
+            if sym.startswith("^N") and now_jst().hour < 16:  # 日本の指数は場中の当日足を除外
+                h = h[[pd.Timestamp(x).date() < now_jst().date() for x in h.index]]
             c = h["Close"].dropna()
             if len(c) >= 2:
                 item["close"] = round(float(c.iloc[-1]), 2)
