@@ -28,7 +28,7 @@ INDICES = [
     ("S&P500", "^GSPC"),
     ("ドル円", "USDJPY=X"),
 ]
-UA = {"User-Agent": "Mozilla/5.0 (jp-market-morning personal project)"}
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36", "Accept-Language": "ja"}
 
 
 # ---------------------------------------------------------------- universe
@@ -65,25 +65,40 @@ def parse_universe(df: pd.DataFrame) -> dict[str, dict]:
     return out
 
 
+FALLBACK_XLS = "https://www.jpx.co.jp/markets/statistics-equities/misc/tvdivq0000001vg2-att/data_j.xls"
+
+
 def find_xls_url(html: str, base: str = JPX_PAGE) -> str:
-    m = re.search(r'href="([^"]*data_j\.xls)"', html)
-    if not m:
-        raise RuntimeError("data_j.xls のリンクが見つかりません")
-    return urljoin(base, m.group(1))
+    """上場銘柄一覧(data_j.xls / .xlsx)のURLを探す。見つからなければ既知のURL。"""
+    hrefs = re.findall(r"""href\s*=\s*["']([^"']+)["']""", html, flags=re.I)
+    for pat in (r"data_j\.xlsx?$", r"\.xlsx?$"):
+        for h in hrefs:
+            if re.search(pat, h, flags=re.I):
+                return urljoin(base, h)
+    files = [h for h in hrefs if re.search(r"\.(xlsx?|csv|zip)$", h, flags=re.I)]
+    print(f"WARN: data_j.xls のリンクが見つかりません。候補={files[:10]} 先頭={html[:300]!r}", file=sys.stderr)
+    return FALLBACK_XLS
+
+
+def read_listing(content: bytes, url: str) -> pd.DataFrame:
+    import io
+
+    engine = "openpyxl" if url.lower().endswith(".xlsx") or content[:2] == b"PK" else "xlrd"
+    return pd.read_excel(io.BytesIO(content), engine=engine, dtype={"コード": str})
 
 
 def load_universe() -> dict[str, dict]:
-    import io
-
     import requests
 
     r = requests.get(JPX_PAGE, headers=UA, timeout=30)
+    print(f"JPX page: HTTP {r.status_code}, {len(r.content)} bytes, final={r.url}")
     r.raise_for_status()
+    r.encoding = r.apparent_encoding or r.encoding
     url = find_xls_url(r.text)
+    print(f"listing url: {url}")
     r = requests.get(url, headers=UA, timeout=60)
     r.raise_for_status()
-    df = pd.read_excel(io.BytesIO(r.content), engine="xlrd", dtype={"コード": str})
-    return parse_universe(df)
+    return parse_universe(read_listing(r.content, url))
 
 
 # ---------------------------------------------------------------- download
@@ -218,6 +233,18 @@ def compute_movers(
     }
 
 
+def drop_incomplete_today(frames: dict[str, pd.DataFrame], now) -> dict[str, pd.DataFrame]:
+    """16時(JST)より前の実行では当日の足（場中の途中値）を除外する。"""
+    if now.hour >= 16:
+        return frames
+    today = now.date()
+    out = {}
+    for t, df in frames.items():
+        keep = [pd.Timestamp(x).date() < today for x in df.index]
+        out[t] = df[keep]
+    return out
+
+
 def is_new_trading_day(data_date: str, latest_path: Path) -> bool:
     """latest.json と同じ data_date なら False（休場日などで更新なし）。"""
     latest_path = Path(latest_path)
@@ -252,6 +279,7 @@ def main() -> int:
     if got < MIN_TICKERS_OK:
         print(f"ERROR: データ取得が {got} 銘柄のみ（<{MIN_TICKERS_OK}）。データソース異常の可能性。", file=sys.stderr)
         return 1
+    frames = drop_incomplete_today(frames, now_jst())
     result = compute_movers(frames, universe)
     if result is None:
         print("ERROR: no usable data", file=sys.stderr)

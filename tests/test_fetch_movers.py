@@ -92,3 +92,15 @@ def test_split_batch_frame_multiindex():
     out = fm.split_batch_frame(raw, ["1001.T", "1002.T", "1003.T"])
     assert set(out) == {"1001.T", "1002.T"}
     assert list(out["1001.T"].columns) == ["Close", "Volume"]
+
+
+def test_drop_incomplete_today():
+    import datetime as dt
+    import pandas as pd
+    idx = pd.to_datetime(["2026-11-02", "2026-11-04"])
+    frames = {"7203.T": pd.DataFrame({"Close": [1.0, 2.0], "Volume": [1, 1]}, index=idx)}
+    jst = dt.timezone(dt.timedelta(hours=9))
+    morning = dt.datetime(2026, 11, 4, 14, 0, tzinfo=jst)
+    assert len(fm.drop_incomplete_today(frames, morning)["7203.T"]) == 1
+    evening = dt.datetime(2026, 11, 4, 17, 0, tzinfo=jst)
+    assert len(fm.drop_incomplete_today(frames, evening)["7203.T"]) == 2
