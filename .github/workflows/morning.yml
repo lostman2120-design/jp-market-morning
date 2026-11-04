@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "0 21 * * 0-4"   # 06:00 JST 月〜金
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".trigger/morning"]   # 手動実行用: このファイルを更新してpush
 concurrency:
   group: jpmm
   cancel-in-progress: false
