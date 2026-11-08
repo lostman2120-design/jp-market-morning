@@ -1,0 +1,282 @@
+{
+ "data_date": "2026-11-05",
+ "generated_at": "2026-11-09T06:50:00+09:00",
+ "market_summary": "日経平均は大引けで4日続落し、AI・半導体関連が引き続き売られました（株探の大引け記事の見出しによる）。個別に材料を確認できた銘柄のみ、理由を記載しています。",
+ "items": [
+  {
+   "code": "5857",
+   "category": "業績修正",
+   "reason": "11/4大引け後に中間決算と合わせ通期業績・配当予想の上方修正と自社株買いを発表し、好感された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "AREHD、通期業績・配当予想を上方修正 上限2.55%の自社株買いも実施",
+     "url": "https://s.minkabu.jp/news/4650238"
+    }
+   ]
+  },
+  {
+   "code": "4565",
+   "category": "業績修正",
+   "reason": "11/4大引け後、AbbVieとのEP4作動薬のライセンス契約に伴う契約一時金を織り込み、通期の営業利益予想を修正。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ネクセラファーマが11月4日大引け後に業績修正を発表（みんかぶ）",
+     "url": "https://s.minkabu.jp/news/4650128"
+    }
+   ]
+  },
+  {
+   "code": "4202",
+   "category": "業績修正",
+   "reason": "中間決算に合わせ通期業績・配当予想の上方修正と自社株買いを発表し、好感された可能性（発表日は記事から確認できず）。",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "ダイセル 通期予想を上方修正、自社株買いも発表（松井証券ニュース）",
+     "url": "https://finance.matsui.co.jp/news/634707/index"
+    }
+   ]
+  },
+  {
+   "code": "4582",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3668",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3401",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7203",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7211",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "5101",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2222",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "9766",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4483",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4543",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7201",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7282",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "485A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6368",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6834",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "5801",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3909",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6590",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  },
+  {
+   "code": "6227",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  },
+  {
+   "code": "6890",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  },
+  {
+   "code": "6855",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  },
+  {
+   "code": "6981",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  },
+  {
+   "code": "6668",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  },
+  {
+   "code": "6627",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  },
+  {
+   "code": "4062",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  },
+  {
+   "code": "6871",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  },
+  {
+   "code": "6961",
+   "category": "市況",
+   "reason": "AI・半導体関連株全般への売りに連れ安した可能性（個別材料は確認できず）",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "【↓】日経平均 大引け｜ 4日続落、AI・半導体関連が引き続き売られる (11月5日)",
+     "url": "https://minkabu.jp/news/4651708"
+    }
+   ]
+  }
+ ]
+}
