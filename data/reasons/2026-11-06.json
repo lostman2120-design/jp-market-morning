@@ -1,0 +1,270 @@
+{
+ "data_date": "2026-11-06",
+ "generated_at": "2026-11-10T06:50:00+09:00",
+ "market_summary": "日経平均は5日続落し、半導体関連を中心に大きく値を崩して6万円を割り込みました（株探の大引け記事による）。前日の米国市場でAI・半導体関連株が急落した流れが波及しました。",
+ "items": [
+  {
+   "code": "4475",
+   "category": "決算",
+   "reason": "27年9月期の営業増益計画（連続2ケタ増益ガイダンス）が好感され、見直し買いが入った。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 HENNGE、JT、イー・ガーディアンなど（みんかぶ）",
+     "url": "https://minkabu.jp/news/4653726"
+    }
+   ]
+  },
+  {
+   "code": "3252",
+   "category": "決算",
+   "reason": "11/5発表の決算が好感され買われた（修正等の詳細は未確認）。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "―決算で買われた銘柄! 上昇率ランキング―（みんかぶ）",
+     "url": "https://minkabu.jp/news/4653220"
+    }
+   ]
+  },
+  {
+   "code": "4536",
+   "category": "決算",
+   "reason": "11/5発表の決算が好感され買われた（詳細は未確認）。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "決算プラス・インパクト銘柄（11月5日発表分）（松井証券）",
+     "url": "https://finance.matsui.co.jp/news/635116/index"
+    }
+   ]
+  },
+  {
+   "code": "3028",
+   "category": "決算",
+   "reason": "11/5発表の決算が好感され買われた（詳細は未確認）。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "決算プラス・インパクト銘柄（11月5日発表分）（松井証券）",
+     "url": "https://finance.matsui.co.jp/news/635116/index"
+    }
+   ]
+  },
+  {
+   "code": "6367",
+   "category": "決算",
+   "reason": "11/5発表の決算が好感され買われた（詳細は未確認）。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "決算プラス・インパクト銘柄（11月5日発表分）（松井証券）",
+     "url": "https://finance.matsui.co.jp/news/635116/index"
+    }
+   ]
+  },
+  {
+   "code": "2914",
+   "category": "材料",
+   "reason": "5日にロシア大統領令で同国の製造子会社4社が一時管理下に置かれ、事業影響を懸念した売りが集中。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "JTのロシア事業が「一時管理」に、株価はストップ安（OANDA証券）",
+     "url": "https://www.oanda.jp/lab-education/?p=132810"
+    },
+    {
+     "title": "プーチン大統領、JTのロシア資産を管理下に 大統領令に署名（みんかぶ）",
+     "url": "https://minkabu.jp/news/4651888"
+    }
+   ]
+  },
+  {
+   "code": "6963",
+   "category": "決算",
+   "reason": "5日大引け後の上期決算発表を受けて売られた。具体的な売り材料の内容は未確認。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "―決算で売られた銘柄! 下落率ランキング―（みんかぶ）",
+     "url": "https://minkabu.jp/news/4653221"
+    }
+   ]
+  },
+  {
+   "code": "9984",
+   "category": "市況",
+   "reason": "5日の米SOX指数が急落しAI関連株が総崩れとなり、6日の東京市場でも売られた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2 出光興産、ソフトバンクG、帝人など（みんかぶ）",
+     "url": "https://minkabu.jp/news/4653729"
+    },
+    {
+     "title": "AI関連株などが総崩れとなり、一時57000円台割れ【クロージング】（みんかぶ）",
+     "url": "https://minkabu.jp/news/4653540"
+    }
+   ]
+  },
+  {
+   "code": "4506",
+   "category": "需給",
+   "reason": "5日に上昇した反動で戻り売り・利益確定売りが出た可能性（新たな悪材料は未確認）。",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2 出光興産、ソフトバンクG、帝人など（みんかぶ）",
+     "url": "https://minkabu.jp/news/4653729"
+    }
+   ]
+  },
+  {
+   "code": "3905",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3110",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3774",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3002",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6869",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2334",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7956",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7164",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6976",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6590",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3563",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6072",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2160",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "8056",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2802",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "8344",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6834",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7951",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "5602",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "1721",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4902",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
