@@ -1,0 +1,398 @@
+{
+ "data_date": "2026-11-12",
+ "generated_at": "2026-11-16T07:00:00+09:00",
+ "market_summary": "日経平均は4日ぶりに反落しました。米エヌビディアのCEO解任準備が伝わり、アドバンテストやイビデンなど半導体関連の一角に売りが波及した一方、TOPIXは4日続伸しました（株探「明日の株式相場に向けて」より）。",
+ "items": [
+  {
+   "code": "5142",
+   "category": "業績修正",
+   "reason": "12日後場に今期業績予想を一転増益に上方修正し、期末配当も増額。発表を受けストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "アキレスは後場Ｓ高、今期は一転大幅な営業増益を計画し期末一括配当予想１０円増額（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120793"
+    }
+   ]
+  },
+  {
+   "code": "4027",
+   "category": "業績修正",
+   "reason": "上半期の大幅上振れを受け、酸化チタンの受注好調で通期業績・配当予想を上方修正したことが好感された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "テイカはカイ気配スタート、酸化チタンの受注好調で今期業績・配当予想を上方修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120283"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "3107",
+   "category": "業績修正",
+   "reason": "11日引け後、企業向けIT需要の好調で今期業績予想を大幅に上方修正したことが好感された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ダイワボウ急騰、企業向けＩＴ需要好調で２７年３月期業績予想を上方修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120348"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "6794",
+   "category": "決算",
+   "reason": "前日発表の大幅な増配が引き続き買い材料となった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "2820",
+   "category": "決算",
+   "reason": "11日引け後の第1四半期決算が大幅増益となり、株式分割も発表。ストップ高で上場来高値を更新。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "やまみはＳ高で上場来高値更新、７～９月期営業益２．５倍で１対２の株式分割も発表（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120364"
+    },
+    {
+     "title": "前日に動いた銘柄 part2タイガースポリマー、アイビー、北陸電気工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130334"
+    }
+   ]
+  },
+  {
+   "code": "4004",
+   "category": "業績修正",
+   "reason": "通期コア営業利益予想を再度大幅に上方修正したことが評価された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "レゾナック---大幅続伸、通期コア営業利益は再度の大幅上方修正に（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120429"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "5714",
+   "category": "業績修正",
+   "reason": "11日引け後に通期業績・配当予想の上方修正と自社株買いを発表し、株主還元強化が評価された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ＤＯＷＡ、通期業績・期末一括配当予想を上方修正　上限２４０万株の自社株買いも発表（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611111176"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "6391",
+   "category": "材料",
+   "reason": "ファンドによるTOB価格へのサヤ寄せが続いた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2タイガースポリマー、アイビー、北陸電気工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130334"
+    }
+   ]
+  },
+  {
+   "code": "1926",
+   "category": "業績修正",
+   "reason": "手持ち工事の進捗が想定を上回り、今期業績・配当予想を増額修正したことが評価された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ライトが切り返し急、手持ち工事の進捗想定超で今期業績・配当予想を増額修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120445"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "197A",
+   "category": "決算",
+   "reason": "7-9月期の実質大幅な営業増益と、クラボウとの資本・業務提携締結が材料視され後場に動意。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "タウンズは後場動意、７～９月期は実質大幅な営業増益でクラボウと資本・業務提携締結（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120766"
+    }
+   ]
+  },
+  {
+   "code": "9684",
+   "category": "業績修正",
+   "reason": "7-9月期が市場予想を上振れ、通期予想を上方修正。一転営業増益の計画が好感された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "スクエニＨＤは３日ぶり急反発し年初来高値更新、２７年３月期は一転営業増益を計画（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120322"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "6284",
+   "category": "決算",
+   "reason": "11日引け後の決算で3期連続最高益の見通しと増配方針を発表したことが材料とみられる。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "ＡＳＢ機械、今期経常は9％増で3期連続最高益、前期配当を20円増額・今期は40円増配へ（株探）",
+     "url": "https://kabutan.jp/stock/news?code=6284&b=k202611110269"
+    }
+   ]
+  },
+  {
+   "code": "3632",
+   "category": "材料",
+   "reason": "配当方針の変更（DOE目標の引き上げ）に伴う増配を発表し、大幅反発。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "グリーＨＤは大幅反発、ＤＯＥ目標引き上げで配当増額（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120447"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "6013",
+   "category": "業績修正",
+   "reason": "メンテナンス需要を追い風に通期業績・配当予想を上方修正したことが評価された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "タクマが戻り足鮮明、メンテナンス需要追い風にプラント工事は順調に進捗し業績・配当予想を増額修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120421"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "2914",
+   "category": "需給",
+   "reason": "株価急落からのリバウンドが続いた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "341A",
+   "category": "需給",
+   "reason": "前日まで2日連続ストップ安となった売り地合いが継続した。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2タイガースポリマー、アイビー、北陸電気工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130334"
+    }
+   ]
+  },
+  {
+   "code": "4493",
+   "category": "材料",
+   "reason": "開発環境における不審アクセスで個人情報漏えいのおそれを発表し、後場に下げ幅を拡大。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "サイバーセキは後場下げ幅急拡大、不審アクセス発生で個人情報漏えいの恐れ（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120645"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "4259",
+   "category": "決算",
+   "reason": "11日発表の上期決算が増収減益となり、第1四半期の増益から減益に転じたことが嫌気された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "エクサウィザーズ---急落、27年3月期上期は増収減益で営業利益3.5%減（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120384"
+    },
+    {
+     "title": "前日に動いた銘柄 part2タイガースポリマー、アイビー、北陸電気工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130334"
+    }
+   ]
+  },
+  {
+   "code": "4980",
+   "category": "決算",
+   "reason": "反射防止フィルムの減収などで7-9月期の営業利益が減益に転じ、急反落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "デクセリは４日ぶり急反落、反射防止フィルムの減収で９月中間期最終益は６％減（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120388"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "6570",
+   "category": "決算",
+   "reason": "好決算の発表も材料出尽くし感が優勢となった。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2タイガースポリマー、アイビー、北陸電気工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130334"
+    }
+   ]
+  },
+  {
+   "code": "5838",
+   "category": "業績修正",
+   "reason": "上方修正を発表したが、再編反映後の数値が市場期待をやや下回り大幅反落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "楽天銀行---大幅反落、再編反映後の上方修正数値は市場期待やや下振れ（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120846"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "6027",
+   "category": "決算",
+   "reason": "上半期は大幅増益だったがコンセンサスにやや届かず、売られた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "7456",
+   "category": "決算",
+   "reason": "上半期は大幅増益だったがコンセンサスに届かず、売られた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "2980",
+   "category": "決算",
+   "reason": "直近の7-9月期が最終赤字に転落し、営業利益水準の大幅低下が嫌気された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ＳＲＥＨＤは続急落し年初来安値更新、直近の７～９月期は最終赤字に転落（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611120423"
+    },
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "6523",
+   "category": "業績修正",
+   "reason": "業績上方修正を発表したがサプライズに乏しく、材料出尽くし感から売られた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1テイカ、レゾナック、アイティメディアなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130306"
+    }
+   ]
+  },
+  {
+   "code": "4478",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4258",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "5253",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3040",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "593A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
