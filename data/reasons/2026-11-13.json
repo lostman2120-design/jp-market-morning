@@ -1,0 +1,368 @@
+{
+ "data_date": "2026-11-13",
+ "generated_at": "2026-11-17T07:00:00+09:00",
+ "market_summary": "指数全体の大引け記事は確認できませんでした。個別では、次期防衛力整備計画の規模が想定を下回ると伝わり防衛関連株に失望売りが広がった一方、決算や業績修正を材料にした個別物色が目立ちました。",
+ "items": [
+  {
+   "code": "336A",
+   "category": "決算",
+   "reason": "12日引け後の決算で、第2四半期のライセンス型売上の伸びが評価され大幅高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ダイナマップ大幅高、第２四半期のライセンス型売上３６％増（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130693"
+    }
+   ]
+  },
+  {
+   "code": "3182",
+   "category": "業績修正",
+   "reason": "7-9月期も大幅増益が続き、今期最終益予想と配当予想を上方修正したことが好感された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "オイシックスは続急伸、今期最終益予想を上方修正し期末一括配当予想を４円増額（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130638"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ブイ・テクノロジー、オイシックス、セグエグループなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140176"
+    }
+   ]
+  },
+  {
+   "code": "3932",
+   "category": "決算",
+   "reason": "上半期の好決算と、非開示だった今期の大幅な増収増益見通しが好感された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "アカツキ急伸、今期の大幅な増収増益見通しを好感（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130669"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ブイ・テクノロジー、オイシックス、セグエグループなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140176"
+    }
+   ]
+  },
+  {
+   "code": "3968",
+   "category": "業績修正",
+   "reason": "再度の業績上方修正と増配を発表し、大幅続伸。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "セグエグループ---大幅続伸、再度の上方修正と増配を発表で（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611131041"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ブイ・テクノロジー、オイシックス、セグエグループなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140176"
+    }
+   ]
+  },
+  {
+   "code": "4041",
+   "category": "業績修正",
+   "reason": "12日引け後に今期業績・配当予想の上方修正と自社株買いを発表し、急反発。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "日曹達が急反発、２７年３月期業績・配当予想の上方修正と自社株買い発表を好感（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130650"
+    }
+   ]
+  },
+  {
+   "code": "7552",
+   "category": "決算",
+   "reason": "コンビニ向けくじ商品の好調が続き、上期の大幅増益決算が評価された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ハピネットが大幅反発、コンビニ向けくじ商品好調継続で上期営業利益は５８％増（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130514"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ブイ・テクノロジー、オイシックス、セグエグループなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140176"
+    }
+   ]
+  },
+  {
+   "code": "3591",
+   "category": "業績修正",
+   "reason": "自社株買いの実施と今期最終利益予想の上方修正が好感され、続急伸。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ワコールＨＤが続急伸、５５０万株を上限とする自社株買いと２７年３月期最終利益の上方修正を好感（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130826"
+    }
+   ]
+  },
+  {
+   "code": "8511",
+   "category": "業績修正",
+   "reason": "業績・配当予想の上方修正が好感された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ブイ・テクノロジー、オイシックス、セグエグループなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140176"
+    }
+   ]
+  },
+  {
+   "code": "6145",
+   "category": "材料",
+   "reason": "ヒューマノイドロボット向けモーター生産設備の追加受注を獲得し、5連騰。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ＮＩＴＴＯＫは大幅高で５連騰、ヒューマノイドロボ向けで１０２億円の追加受注（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130685"
+    },
+    {
+     "title": "前日に動いた銘柄 part2森組、児玉化学、アイビーなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140193"
+    }
+   ]
+  },
+  {
+   "code": "4704",
+   "category": "決算",
+   "reason": "12日引け後に発表した7-9月期決算が市場予想を上回った。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ブイ・テクノロジー、オイシックス、セグエグループなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140176"
+    }
+   ]
+  },
+  {
+   "code": "3496",
+   "category": "決算",
+   "reason": "12日発表の決算で示した今期のガイダンスがマイナス視され、ストップ安。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "アズーム---ストップ安、今期のガイダンスをマイナス視の動きへ（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130675"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ブイ・テクノロジー、オイシックス、セグエグループなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140176"
+    }
+   ]
+  },
+  {
+   "code": "4480",
+   "category": "決算",
+   "reason": "7-9月期が営業赤字決算となり、ストップ安。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "メドレー---ストップ安、7-9月期は営業赤字決算となり（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130689"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ブイ・テクノロジー、オイシックス、セグエグループなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140176"
+    }
+   ]
+  },
+  {
+   "code": "3962",
+   "category": "業績修正",
+   "reason": "「ふるさとチョイス」への不正アクセスの影響と減損計上で今期業績を下方修正し、配当を未定に変更。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "チェンジＨＤ急落、「ふるさとチョイス」不正アクセス影響で今期下方修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130580"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ブイ・テクノロジー、オイシックス、セグエグループなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140176"
+    }
+   ]
+  },
+  {
+   "code": "6946",
+   "category": "市況",
+   "reason": "次期防衛力整備計画の規模が想定を下回ると伝わり、防衛関連株に失望売りが広がった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "川重や三菱重が大幅安、防衛費「５年で５０兆円台の基準提示」と伝わり防衛関連株に失望売り（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611131075"
+    }
+   ]
+  },
+  {
+   "code": "7936",
+   "category": "決算",
+   "reason": "第3四半期は営業増益だったが、目先の材料出尽くし感から後場に急落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "アシックスは後場急落、第３四半期３８％営業増益も目先の材料出尽くし感（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130910"
+    }
+   ]
+  },
+  {
+   "code": "6544",
+   "category": "決算",
+   "reason": "7-9月期の増益率鈍化がマイナス視された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2森組、児玉化学、アイビーなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140193"
+    }
+   ]
+  },
+  {
+   "code": "3673",
+   "category": "業績修正",
+   "reason": "業績下方修正へのネガティブなサプライズが続いた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2森組、児玉化学、アイビーなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140193"
+    }
+   ]
+  },
+  {
+   "code": "6055",
+   "category": "決算",
+   "reason": "上半期は大幅増益だったがコンセンサスを下回り、売られた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2森組、児玉化学、アイビーなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140193"
+    }
+   ]
+  },
+  {
+   "code": "6507",
+   "category": "市況",
+   "reason": "次期防衛力整備計画の規模が想定を下回ると伝わり、防衛関連株に失望売りが広がった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "川重や三菱重が大幅安、防衛費「５年で５０兆円台の基準提示」と伝わり防衛関連株に失望売り（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611131075"
+    }
+   ]
+  },
+  {
+   "code": "4527",
+   "category": "決算",
+   "reason": "前年同期の反動で上半期が経常減益となり、大幅反落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ロートは大幅反落、前年同期の反動で４～９月期最終減益（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611130587"
+    },
+    {
+     "title": "前日に動いた銘柄 part2森組、児玉化学、アイビーなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140193"
+    }
+   ]
+  },
+  {
+   "code": "4385",
+   "category": "決算",
+   "reason": "通期業績予想の据え置きで材料出尽くし感が出た。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2森組、児玉化学、アイビーなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140193"
+    }
+   ]
+  },
+  {
+   "code": "5142",
+   "category": "需給",
+   "reason": "上方修正・増配で前日に大幅高となった反動で売られた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2森組、児玉化学、アイビーなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611140193"
+    }
+   ]
+  },
+  {
+   "code": "5631",
+   "category": "市況",
+   "reason": "次期防衛力整備計画の規模が想定を下回ると伝わり、防衛関連株に失望売りが広がった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "川重や三菱重が大幅安、防衛費「５年で５０兆円台の基準提示」と伝わり防衛関連株に失望売り（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611131075"
+    }
+   ]
+  },
+  {
+   "code": "6072",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4588",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "446A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6989",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2501",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7721",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3905",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
