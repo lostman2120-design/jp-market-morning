@@ -1,0 +1,389 @@
+{
+ "data_date": "2026-11-16",
+ "generated_at": "2026-11-18T07:00:00+09:00",
+ "market_summary": "前週末の米SOX指数下落を受け、アドバンテストやレーザーテックなどAI・半導体関連株に売りが優勢となりました。一方、小売り関連株への資金流入や、決算・業績修正を材料にした個別物色が目立ちました（株探・フィスコの記事より）。",
+ "items": [
+  {
+   "code": "7522",
+   "category": "材料",
+   "reason": "MBOに伴うTOB価格へのサヤ寄せで急騰。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ワタミは急騰、ＭＢＯのＴＯＢ価格１２８４円にサヤ寄せ（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160302"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "8253",
+   "category": "業績修正",
+   "reason": "市場予想を上回る通期純利益・配当予想の上方修正と自社株買いの発表が好感され、ストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "クレセゾンがマド開け急伸しＳ高、通期純利益・配当予想増額と自社株買いをポジティブ視（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160329"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "4180",
+   "category": "業績修正",
+   "reason": "2四半期連続の通期業績予想の上方修正と増配を発表し、急反発。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "Ａｐｐｉｅｒが急反発、２６年１２月期利益予想及び配当予想を上方修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160337"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "319A",
+   "category": "決算",
+   "reason": "13日発表の第3四半期累計決算が大幅増益で着地したことが材料とみられる。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "技術承継機構、1-9月期(3Q累計)経常が3.8倍増益で着地・7-9月期も3.6倍増益（株探）",
+     "url": "https://kabutan.jp/stock/news?code=319A&b=k202611130644"
+    }
+   ]
+  },
+  {
+   "code": "153A",
+   "category": "決算",
+   "reason": "第3四半期累計の増益率拡大が評価され、マド開けで急騰。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "カウリスがマド開け急騰、マネロンやサイバー攻撃対応で実力発揮し急成長路線走る（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160441"
+    },
+    {
+     "title": "前日に動いた銘柄 part2岐阜造園、カウリス、北川鉄工所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170247"
+    }
+   ]
+  },
+  {
+   "code": "6877",
+   "category": "決算",
+   "reason": "今期の営業増益予想と増配方針が評価され、年初来高値を更新。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ＯＢＡＲＡＧは年初来高値更新、２７年９月期営業益予想７％増で２０円増配へ（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160861"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "4919",
+   "category": "決算",
+   "reason": "国内外のヘアケア用剤が好調で、第3四半期累計の好進捗が評価され急反発。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ミルボンは急反発、国内外のヘアケア用剤好調で１～９月期営業益は６５％増（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160435"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "6238",
+   "category": "材料",
+   "reason": "高水準の自社株買いの実施を発表し、急伸。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "フリューは急伸し年初来高値更新、上限９．４３％の自社株買いを発表（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160255"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "9552",
+   "category": "決算",
+   "reason": "今期の増収増益計画がポジティブ視され、続急伸。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "クオンツ総研は続急伸し年初来高値更新、２７年９月期は最終益８％増を計画（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160393"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "7747",
+   "category": "決算",
+   "reason": "第1四半期決算が予想を上回る大幅増益となり、業績上振れ期待から急反発。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "朝日インテクが一時９％高と急反発、第１四半期決算は予想上回り買い集まる（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160596"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "9843",
+   "category": "決算",
+   "reason": "7-9月期が増益に転換し市場想定も上振れ。小売り関連株への資金流入も追い風。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ニトリＨＤ---大幅反発、7-9月期は増益転換で市場想定も上振れ（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160620"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "7716",
+   "category": "決算",
+   "reason": "第3四半期累計の経常利益の高進捗で、業績上振れ期待が膨らんだ。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ナカニシが戻り足鮮明、１～９月経常益高進捗で業績上振れ期待膨らむ（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160419"
+    }
+   ]
+  },
+  {
+   "code": "7936",
+   "category": "決算",
+   "reason": "中期計画などが期待以上との評価から、前週末の急落から反発。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "3156",
+   "category": "業績修正",
+   "reason": "通期業績を上方修正したがコンセンサスに届かず、売られた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "6266",
+   "category": "決算",
+   "reason": "検収遅れの発生で第3四半期累計が大幅減益となり、急反落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "タツモは急反落、検収遅れ発生で１～９月期営業益は６９％減（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160850"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "6481",
+   "category": "業績修正",
+   "reason": "業績上方修正もサプライズは限定的で、材料出尽くし感から大幅続落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ＴＨＫ---大幅続落、業績上方修正もサプライズ限定的で出尽くし感（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160313"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "6834",
+   "category": "市況",
+   "reason": "AI関連株安の地合いで、業績上方修正が材料出尽くしと受け止められた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2岐阜造園、カウリス、北川鉄工所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170247"
+    }
+   ]
+  },
+  {
+   "code": "6268",
+   "category": "決算",
+   "reason": "7-9月期業績が市場予想を小幅に下振れ、売られた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "7717",
+   "category": "需給",
+   "reason": "受注好調で前週末に大幅高となった反動で売られた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "6920",
+   "category": "市況",
+   "reason": "前週末の米SOX指数下落を受け、半導体関連株に売りが優勢となった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2岐阜造園、カウリス、北川鉄工所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170247"
+    }
+   ]
+  },
+  {
+   "code": "4493",
+   "category": "業績修正",
+   "reason": "組織体制の大幅変更の影響で今期業績予想を下方修正し、急反落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "サイバーセキが急反落、組織体制の大幅変更の影響で２６年１２月期業績予想を下方修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611160260"
+    },
+    {
+     "title": "前日に動いた銘柄 part2岐阜造園、カウリス、北川鉄工所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170247"
+    }
+   ]
+  },
+  {
+   "code": "6856",
+   "category": "業績修正",
+   "reason": "業績を上方修正したがコンセンサスを下回る水準で、売られた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 OBARA、ワタミ、クレディセゾンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170209"
+    }
+   ]
+  },
+  {
+   "code": "6857",
+   "category": "市況",
+   "reason": "前週末の米SOX指数下落を受け、半導体関連株に売りが優勢となった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2岐阜造園、カウリス、北川鉄工所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170247"
+    }
+   ]
+  },
+  {
+   "code": "6976",
+   "category": "市況",
+   "reason": "AI関連株に売りが優勢の流れとなった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2岐阜造園、カウリス、北川鉄工所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170247"
+    }
+   ]
+  },
+  {
+   "code": "4255",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4582",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6613",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "5985",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6627",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "8918",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
