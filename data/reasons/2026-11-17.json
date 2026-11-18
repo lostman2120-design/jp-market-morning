@@ -1,0 +1,299 @@
+{
+ "data_date": "2026-11-17",
+ "generated_at": "2026-11-19T07:00:00+09:00",
+ "market_summary": "米SOX指数の大幅下落やエヌビディアの先行き不透明感を背景に、イビデンやレゾナックなどAI・半導体関連株に売りが続きました。一方、リクルートやファーストリテイリングなどにはAI関連からの資金シフトとみられる買いが入りました（株探・フィスコの記事より）。",
+ "items": [
+  {
+   "code": "4888",
+   "category": "材料",
+   "reason": "がん治療向け医薬品をめぐる情報開示が相次ぎ、物色人気化して一時ストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ステラファが一時Ｓ高、がん治療向け医薬品巡る情報開示相次ぎ物色人気化（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170782"
+    }
+   ]
+  },
+  {
+   "code": "2334",
+   "category": "業績修正",
+   "reason": "16日引け後に今期経常利益予想を大幅に上方修正し、サプライズからストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "イオレ---ストップ高、27年3月期通期経常利益予想を2.1倍に上方修正（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170754"
+    },
+    {
+     "title": "前日に動いた銘柄 part2スプリックス、ポート、Appier　Groupなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180136"
+    }
+   ]
+  },
+  {
+   "code": "4547",
+   "category": "材料",
+   "reason": "米社が発表した膀胱がん向け新薬候補の治験結果が好材料視され、4日続伸。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "キッセイが大幅に４日続伸、米社の膀胱がん向け新薬候補の治験結果を好感（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170822"
+    },
+    {
+     "title": "前日に動いた銘柄 part1イビデン、日本マイクロニクス、キッセイ薬品工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180130"
+    }
+   ]
+  },
+  {
+   "code": "7630",
+   "category": "材料",
+   "reason": "再編思惑などがあらためて高まった可能性。",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、日本マイクロニクス、キッセイ薬品工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180130"
+    }
+   ]
+  },
+  {
+   "code": "4418",
+   "category": "決算",
+   "reason": "第1四半期の大幅営業増益で16日にストップ高となり、17日も買いが続いた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2スプリックス、ポート、Appier　Groupなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180136"
+    }
+   ]
+  },
+  {
+   "code": "2585",
+   "category": "需給",
+   "reason": "特段の材料は伝わらず、下値支持水準が意識された可能性。",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、日本マイクロニクス、キッセイ薬品工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180130"
+    }
+   ]
+  },
+  {
+   "code": "6098",
+   "category": "需給",
+   "reason": "特段の材料はなく、AI関連株からの資金シフトの可能性。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、日本マイクロニクス、キッセイ薬品工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180130"
+    }
+   ]
+  },
+  {
+   "code": "4887",
+   "category": "材料",
+   "reason": "野村證券が目標株価を引き上げた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、日本マイクロニクス、キッセイ薬品工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180130"
+    }
+   ]
+  },
+  {
+   "code": "7047",
+   "category": "決算",
+   "reason": "上期決算が営業減益となり、第1四半期の増益から減益に転じたことで失望売り。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ポート急落、４～９月期営業減益で失望売り（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611170533"
+    },
+    {
+     "title": "前日に動いた銘柄 part2スプリックス、ポート、Appier　Groupなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180136"
+    }
+   ]
+  },
+  {
+   "code": "6834",
+   "category": "市況",
+   "reason": "AI関連株安の地合いで、業績上方修正の出尽くし感が続いた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2スプリックス、ポート、Appier　Groupなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180136"
+    }
+   ]
+  },
+  {
+   "code": "4180",
+   "category": "需給",
+   "reason": "業績上方修正で16日に大幅高となった反動で売られた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2スプリックス、ポート、Appier　Groupなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180136"
+    }
+   ]
+  },
+  {
+   "code": "4004",
+   "category": "市況",
+   "reason": "AI関連株安の流れで売りが優勢となった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2スプリックス、ポート、Appier　Groupなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180136"
+    }
+   ]
+  },
+  {
+   "code": "6258",
+   "category": "需給",
+   "reason": "業績上方修正と自社株買いの発表で16日に上昇した反動で売られた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、日本マイクロニクス、キッセイ薬品工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180130"
+    }
+   ]
+  },
+  {
+   "code": "4062",
+   "category": "市況",
+   "reason": "米SOX指数の下落とエヌビディアの先行き不透明感が引き続きマイナス視された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、日本マイクロニクス、キッセイ薬品工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180130"
+    }
+   ]
+  },
+  {
+   "code": "3624",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4582",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6145",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4403",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6027",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6862",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "5101",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "319A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4493",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "446A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6072",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "593A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6855",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6016",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "290A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4259",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
