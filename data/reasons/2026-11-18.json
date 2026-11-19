@@ -1,0 +1,323 @@
+{
+ "data_date": "2026-11-18",
+ "generated_at": "2026-11-20T07:00:00+09:00",
+ "market_summary": "日経平均は米エヌビディアの好決算を受けてアドバンテスト主導で反発しましたが、TOPIXはほぼマイナス圏で推移し下落銘柄が多数を占めました。楽天証券の不正アクセス問題を受けてサイバーセキュリティ関連株に物色が集中した一方、米SaaS株安を受けてSaaS関連は売られました（株探・フィスコの記事より）。",
+ "items": [
+  {
+   "code": "338A",
+   "category": "材料",
+   "reason": "相次ぐ情報漏えいを受け、セキュリティ関連銘柄に資金が向かいストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、PILLAR、KOKUSAI　ELECTRICなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190134"
+    }
+   ]
+  },
+  {
+   "code": "3042",
+   "category": "材料",
+   "reason": "楽天証券の不正アクセス問題などを受け、セキュリティ関連株に物色人気が集中。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "カウリス、セキュアヴェなど急騰、金融システム系サイバー防御で強みを持つセキュリティー関連株に物色人気集中（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180423"
+    },
+    {
+     "title": "前日に動いた銘柄 part2レイヤード、セキュアヴェイル、ショーケースなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190142"
+    }
+   ]
+  },
+  {
+   "code": "4972",
+   "category": "業績修正",
+   "reason": "17日引け後に今期業績予想を一転増益に上方修正し、未定だった配当で増配を発表。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "綜研化学は反発、２７年３月期業績予想の上方修正を発表　未定だった配当予想は６０円増配へ（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180376"
+    }
+   ]
+  },
+  {
+   "code": "2334",
+   "category": "業績修正",
+   "reason": "今期業績予想の上方修正が引き続き手掛かりとなった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2レイヤード、セキュアヴェイル、ショーケースなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190142"
+    }
+   ]
+  },
+  {
+   "code": "153A",
+   "category": "材料",
+   "reason": "金融システム系のサイバー防御に強みを持つセキュリティ関連株として物色人気が集中。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "カウリス、セキュアヴェなど急騰、金融システム系サイバー防御で強みを持つセキュリティー関連株に物色人気集中（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180423"
+    }
+   ]
+  },
+  {
+   "code": "6490",
+   "category": "材料",
+   "reason": "エフィッシモが大株主に浮上したことが明らかになり、思惑買いが入った。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、PILLAR、KOKUSAI　ELECTRICなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190134"
+    }
+   ]
+  },
+  {
+   "code": "4498",
+   "category": "材料",
+   "reason": "セキュリティ関連株への物色人気集中の流れで買われた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "カウリス、セキュアヴェなど急騰、金融システム系サイバー防御で強みを持つセキュリティー関連株に物色人気集中（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180423"
+    }
+   ]
+  },
+  {
+   "code": "6855",
+   "category": "材料",
+   "reason": "エフィッシモによる株式保有割合の上昇で思惑が広がり、大幅反発。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "電子材料が大幅反発、エフィッシモによる株式保有割合上昇で思惑（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180395"
+    }
+   ]
+  },
+  {
+   "code": "6315",
+   "category": "市況",
+   "reason": "エヌビディアの好決算を受け、半導体製造装置の一角が買われた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、PILLAR、KOKUSAI　ELECTRICなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190134"
+    }
+   ]
+  },
+  {
+   "code": "6871",
+   "category": "需給",
+   "reason": "17日にかけて連日大幅安となった反動で買われた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、PILLAR、KOKUSAI　ELECTRICなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190134"
+    }
+   ]
+  },
+  {
+   "code": "5838",
+   "category": "材料",
+   "reason": "楽天証券での不正アクセスによる顧客情報流出が嫌気され、急落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "楽天銀が急落し楽天グループは年初来安値更新、楽天証券での個人情報流出を嫌気（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180373"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、PILLAR、KOKUSAI　ELECTRICなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190134"
+    }
+   ]
+  },
+  {
+   "code": "3923",
+   "category": "市況",
+   "reason": "米SaaS関連株安の影響で、SaaS関連の代表銘柄に売りが集まった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、PILLAR、KOKUSAI　ELECTRICなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190134"
+    }
+   ]
+  },
+  {
+   "code": "4443",
+   "category": "市況",
+   "reason": "米関連銘柄の下落を受けSaaS関連が軟調となり、大幅続落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "Ｓａｎｓａｎ---大幅続落、米関連銘柄の下落でSAAS関連が軟調（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180701"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、PILLAR、KOKUSAI　ELECTRICなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190134"
+    }
+   ]
+  },
+  {
+   "code": "3968",
+   "category": "需給",
+   "reason": "セキュリティ関連が好調な中、利食い売りが優勢となった。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2レイヤード、セキュアヴェイル、ショーケースなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190142"
+    }
+   ]
+  },
+  {
+   "code": "3905",
+   "category": "業績修正",
+   "reason": "業績予想の下方修正が引き続き嫌気された。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2レイヤード、セキュアヴェイル、ショーケースなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190142"
+    }
+   ]
+  },
+  {
+   "code": "6058",
+   "category": "需給",
+   "reason": "特段の材料はなく、高値圏で利食い売り圧力が強まった。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、PILLAR、KOKUSAI　ELECTRICなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190134"
+    }
+   ]
+  },
+  {
+   "code": "3994",
+   "category": "市況",
+   "reason": "米SaaS関連株安の影響で、SaaS関連の代表銘柄の一角として売られた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、PILLAR、KOKUSAI　ELECTRICなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190134"
+    }
+   ]
+  },
+  {
+   "code": "4755",
+   "category": "材料",
+   "reason": "子会社の楽天証券での不正アクセスによる顧客情報流出が嫌気され、年初来安値を更新。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "楽天銀が急落し楽天グループは年初来安値更新、楽天証券での個人情報流出を嫌気（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611180373"
+    },
+    {
+     "title": "前日に動いた銘柄 part2レイヤード、セキュアヴェイル、ショーケースなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190142"
+    }
+   ]
+  },
+  {
+   "code": "130A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3624",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4418",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4888",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6834",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6027",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4478",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4483",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "456A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7806",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7685",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2264",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
