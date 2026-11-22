@@ -1,0 +1,319 @@
+{
+ "data_date": "2026-11-19",
+ "generated_at": "2026-11-23T07:00:00+09:00",
+ "market_summary": "楽天証券や三菱UFJ銀行での情報流出など金融機関へのサイバー攻撃被害の拡大を受け、トレンドマイクロなどサイバーセキュリティ関連株への資金流入が続きました。一方、銅市況の大幅下落を受けてJX金属や住友金属鉱山など非鉄株が売られました（株探・フィスコの記事より）。",
+ "items": [
+  {
+   "code": "4598",
+   "category": "材料",
+   "reason": "抗がん剤DFP-10917の長期安定製剤の技術で特許査定を受けたことが材料視され、急騰。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ＤＥＬＴＡ－Ｐ---急騰、抗がん剤DFP-10917の長期安定製剤で特許査定（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190414"
+    },
+    {
+     "title": "前日に動いた銘柄 part2 JX金属、セイコーグループ、日アビオなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200173"
+    }
+   ]
+  },
+  {
+   "code": "3909",
+   "category": "材料",
+   "reason": "東証が信用取引に関する臨時措置を解除したことを受け、ストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ショーケース続急伸、東証が信用取引に関する臨時措置を解除（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190298"
+    },
+    {
+     "title": "本日の【ストップ高／ストップ安】 引け (11月19日)（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190975"
+    }
+   ]
+  },
+  {
+   "code": "3042",
+   "category": "材料",
+   "reason": "金融機関へのサイバー攻撃被害が広がる中、セキュリティ関連株への資金流入が続き一時ストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "トレンドなどサイバーセキュリティー関連への資金流入続く、米パロアルトは時間外で急伸（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190469"
+    },
+    {
+     "title": "本日の【ストップ高／ストップ安】 引け (11月19日)（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190975"
+    }
+   ]
+  },
+  {
+   "code": "6315",
+   "category": "市況",
+   "reason": "米SOX指数の上昇を受けて買われた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ベイカレント、ソニーグループ、ダイキン工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200166"
+    }
+   ]
+  },
+  {
+   "code": "3762",
+   "category": "材料",
+   "reason": "金融機関へのサイバー攻撃被害の拡大を受け、セキュリティ関連株への資金流入が続いた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "トレンドなどサイバーセキュリティー関連への資金流入続く、米パロアルトは時間外で急伸（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190469"
+    }
+   ]
+  },
+  {
+   "code": "6787",
+   "category": "需給",
+   "reason": "特段の材料はなく、下値での底堅さが意識された可能性。",
+   "confidence": "低",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ベイカレント、ソニーグループ、ダイキン工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200166"
+    }
+   ]
+  },
+  {
+   "code": "4704",
+   "category": "材料",
+   "reason": "米国市場でのサイバーセキュリティ関連株高や米パロアルトの時間外急伸を受け、大幅反発。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "トレンド---大幅反発、米国市場ではサイバーセキュリティ関連株が上昇（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190514"
+    },
+    {
+     "title": "トレンドなどサイバーセキュリティー関連への資金流入続く、米パロアルトは時間外で急伸（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190469"
+    }
+   ]
+  },
+  {
+   "code": "3905",
+   "category": "市況",
+   "reason": "AI関連産業をめぐる見通し不安が止まらず、ストップ安。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "データセクはＳ安ウリ気配、ＡＩ関連産業をめぐる見通し不安止まらず（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190928"
+    },
+    {
+     "title": "前日に動いた銘柄 part2 JX金属、セイコーグループ、日アビオなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200173"
+    }
+   ]
+  },
+  {
+   "code": "4165",
+   "category": "需給",
+   "reason": "前日まで2日連続ストップ安となった急落地合いが続いた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2 JX金属、セイコーグループ、日アビオなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200173"
+    },
+    {
+     "title": "本日の【ストップ高／ストップ安】 引け (11月19日)（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190975"
+    }
+   ]
+  },
+  {
+   "code": "2334",
+   "category": "需給",
+   "reason": "18日まで連騰した反動で売られた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2 JX金属、セイコーグループ、日アビオなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200173"
+    }
+   ]
+  },
+  {
+   "code": "6946",
+   "category": "材料",
+   "reason": "防衛費圧縮を企業に伝達したとの報道などが警戒された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2 JX金属、セイコーグループ、日アビオなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200173"
+    }
+   ]
+  },
+  {
+   "code": "1515",
+   "category": "市況",
+   "reason": "銅市況の一段安がマイナス視された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ベイカレント、ソニーグループ、ダイキン工業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200166"
+    }
+   ]
+  },
+  {
+   "code": "5016",
+   "category": "市況",
+   "reason": "銅先物相場の急落を受け、非鉄株に売りが優勢となった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ＪＸ金属---大幅続落、銅市況の大幅下落で関連銘柄に売りが優勢（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190428"
+    },
+    {
+     "title": "ＪＸ金属など非鉄株が下値模索、銅先物相場の急落で（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190539"
+    }
+   ]
+  },
+  {
+   "code": "5713",
+   "category": "市況",
+   "reason": "銅価格の下落やNY金先物の下落を受け、8日続落で年初来安値を更新。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "住友鉱が大幅に８日続落し年初来安値を連日更新、ＮＹ金先物は３％超す下落（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611190419"
+    },
+    {
+     "title": "前日に動いた銘柄 part2 JX金属、セイコーグループ、日アビオなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200173"
+    }
+   ]
+  },
+  {
+   "code": "4586",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3624",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4582",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4597",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4258",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "338A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4680",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4980",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6227",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6072",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "319A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4588",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "290A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4222",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7456",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7734",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
