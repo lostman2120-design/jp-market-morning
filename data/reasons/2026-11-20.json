@@ -1,0 +1,378 @@
+{
+ "data_date": "2026-11-20",
+ "generated_at": "2026-11-24T07:00:00+09:00",
+ "market_summary": "米アンソロピック上場後の米ハイテク株安やSOX指数の下落を受け、ソフトバンクグループやキオクシアなどAI・半導体関連株が軒並み急落しました。一方、医薬品や食品、保険などディフェンシブ株への資金シフトがみられました（株探・フィスコの記事より）。",
+ "items": [
+  {
+   "code": "5133",
+   "category": "材料",
+   "reason": "自社株買いの実施を発表し、需給改善への期待から急騰。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "テリロジＨＤは急騰、５８万株を上限とする自社株買いを発表（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200331"
+    },
+    {
+     "title": "前日に動いた銘柄 part2芝浦メカトロニクス、アドバンテスト、日東紡績など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210163"
+    }
+   ]
+  },
+  {
+   "code": "446A",
+   "category": "需給",
+   "reason": "全体安の中で逆行高となり、売出価格を上回って推移した。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "ノースサンドが逆行高、売出価格を上回って推移（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200823"
+    }
+   ]
+  },
+  {
+   "code": "4575",
+   "category": "材料",
+   "reason": "欧州医薬品庁からCBP501の第3相試験開始の承認を受けたことが引き続き手掛かりとなった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2芝浦メカトロニクス、アドバンテスト、日東紡績など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210163"
+    },
+    {
+     "title": "本日の【ストップ高／ストップ安】 引け (11月20日)（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611201143"
+    }
+   ]
+  },
+  {
+   "code": "8766",
+   "category": "業績修正",
+   "reason": "通期の修正純利益予想の上方修正と大規模な自社株買いの発表が評価され、反発。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "東京海上が４日ぶり反発、発行株９．６％相当の自社株買いを評価（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200345"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "8630",
+   "category": "材料",
+   "reason": "自社株買いの実施を発表したことが下支えとなった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ＳＯＭＰＯが底堅い、上限６８０億円の自社株買いを発表（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200556"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "4578",
+   "category": "市況",
+   "reason": "ディフェンシブ株へのシフトで医薬品セクターが買われた。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "2212",
+   "category": "材料",
+   "reason": "値上げ効果への期待から証券会社が投資判断を格上げし、上場来高値を更新。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "山パン---大幅続伸、値上げ効果への期待で欧州系証券が格上げ（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200770"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "4704",
+   "category": "材料",
+   "reason": "国内大手証券が目標株価を引き上げ、全体安の中で逆行高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "トレンドが逆行高、国内大手証券は目標株価を増額修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611201082"
+    }
+   ]
+  },
+  {
+   "code": "4307",
+   "category": "材料",
+   "reason": "自社株買いと買付け委託を発表し、買いが入った。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "野村総研はしっかり、自社株を取得（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200490"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "4461",
+   "category": "市況",
+   "reason": "AI関連株安が重しとなり、データセンター関連として一時ストップ安。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    },
+    {
+     "title": "本日の【ストップ高／ストップ安】 引け (11月20日)（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611201143"
+    }
+   ]
+  },
+  {
+   "code": "6227",
+   "category": "市況",
+   "reason": "半導体市況の見通しへの不安が拡大し、ストップ安。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ＡＩメカはＳ安ウリ気配、半導体市況の見通しへの不安が拡大（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611201068"
+    },
+    {
+     "title": "本日の【ストップ高／ストップ安】 引け (11月20日)（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611201143"
+    }
+   ]
+  },
+  {
+   "code": "9984",
+   "category": "市況",
+   "reason": "米アンソロピック上場後の米ハイテク株急落を受け、AI関連として売られ急落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ソフトバンクＧが急落し３０００円大台割れ、アンソロピック上場後の米ハイテク株急落がロング圧縮の売り促す（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200446"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "6266",
+   "category": "市況",
+   "reason": "半導体株安の流れで売られ、安値を更新。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "5706",
+   "category": "市況",
+   "reason": "データセンター投資の継続性への不安が強まり、金属市況の下落も重しとなって急落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "三井金属が一時１４％超急落で年初来安値、データセンター投資の継続性への不安強まる（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200785"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "4165",
+   "category": "業績修正",
+   "reason": "今期業績予想を一転赤字に下方修正し、上場来安値を更新。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "プレイド後場一段安で上場来安値更新、２６年１２月期業績予想を下方修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200989"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "5801",
+   "category": "市況",
+   "reason": "米アンソロピックの株価伸び悩みを受け、AI関連に売りが広がった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "5803",
+   "category": "市況",
+   "reason": "米アンソロピック上場後のSOX指数下落を受け、AI関連の主力株が総じて大幅安。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "キオクシアなどＡＩ・半導体関連が軒並み急落、米アンソロピック上場もＳＯＸ２％超安（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200383"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "285A",
+   "category": "市況",
+   "reason": "米アンソロピック上場後のSOX指数下落を受け、AI・半導体関連が軒並み急落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "キオクシアなどＡＩ・半導体関連が軒並み急落、米アンソロピック上場もＳＯＸ２％超安（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200383"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "5838",
+   "category": "材料",
+   "reason": "金融庁が楽天証券に報告徴求命令を出したことが嫌気された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "楽天銀と楽天グループは大幅安、金融庁が楽天証券に報告徴求命令（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200908"
+    }
+   ]
+  },
+  {
+   "code": "5713",
+   "category": "材料",
+   "reason": "証券会社が投資判断を格下げした。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "4062",
+   "category": "市況",
+   "reason": "AI・半導体関連の急落に加え、証券会社が目標株価を引き下げた。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "キオクシアなどＡＩ・半導体関連が軒並み急落、米アンソロピック上場もＳＯＸ２％超安（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611200383"
+    },
+    {
+     "title": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611210159"
+    }
+   ]
+  },
+  {
+   "code": "4586",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3624",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6058",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2492",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "8056",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7201",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4888",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3909",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "186A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
