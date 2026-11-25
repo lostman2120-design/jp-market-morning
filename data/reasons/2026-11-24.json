@@ -1,0 +1,340 @@
+{
+ "data_date": "2026-11-24",
+ "generated_at": "2026-11-26T07:00:00+09:00",
+ "market_summary": "ファン氏のエヌビディアCEO復帰や同社株の急騰を受け、アドバンテストやイビデンなどAI・半導体関連株が一斉にリバウンドしました。一方、KDDIなどディフェンシブ銘柄からは資金が流出しました（株探・フィスコの記事より）。",
+ "items": [
+  {
+   "code": "3237",
+   "category": "材料",
+   "reason": "GPUサーバー販売事業の本格始動が材料視され、急伸。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "イントランスが急伸、ＧＰＵサーバー販売事業を本格始動（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611240638"
+    }
+   ]
+  },
+  {
+   "code": "4062",
+   "category": "市況",
+   "reason": "ファン氏のエヌビディアCEO復帰がインパクトとなり、ストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "イビデン---ストップ高買い気配、ファン氏のエヌビディアCEO復帰がインパクトに（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611240486"
+    },
+    {
+     "title": "本日の【ストップ高／ストップ安】 引け (11月24日)（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611240945"
+    }
+   ]
+  },
+  {
+   "code": "6981",
+   "category": "市況",
+   "reason": "米AI関連株のリバウンドを受け、MLCC関連として買われストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    },
+    {
+     "title": "本日の【ストップ高／ストップ安】 引け (11月24日)（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611240945"
+    }
+   ]
+  },
+  {
+   "code": "3110",
+   "category": "市況",
+   "reason": "AI関連株の一角としてリバウンドの流れに乗った。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    }
+   ]
+  },
+  {
+   "code": "6525",
+   "category": "市況",
+   "reason": "サムスン電子なども大幅高となる中、半導体製造装置関連として買われストップ高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    },
+    {
+     "title": "本日の【ストップ高／ストップ安】 引け (11月24日)（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611240945"
+    }
+   ]
+  },
+  {
+   "code": "6324",
+   "category": "市況",
+   "reason": "AI関連株高の中で押し目買いが優勢となった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    }
+   ]
+  },
+  {
+   "code": "4461",
+   "category": "市況",
+   "reason": "前週末に大きく下げた反動で、AI関連株高の流れに乗って反発。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    }
+   ]
+  },
+  {
+   "code": "6787",
+   "category": "市況",
+   "reason": "エヌビディア急反発を受けたAI・半導体関連株の一斉高の流れに乗り、リバウンド。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    }
+   ]
+  },
+  {
+   "code": "6480",
+   "category": "材料",
+   "reason": "半導体向けリニアガイドの好調による業績変化が評価され、FA関連見直しの中で急伸。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "トムソンは戻り足鮮烈で底入れ示唆、半導体向けリニアガイド絶好調で抜群の業績変化率（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611240687"
+    },
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    }
+   ]
+  },
+  {
+   "code": "6254",
+   "category": "市況",
+   "reason": "エヌビディア急反発を受けたAI・半導体関連株の一斉高の流れに乗り、リバウンド。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    }
+   ]
+  },
+  {
+   "code": "6857",
+   "category": "市況",
+   "reason": "米エヌビディア急騰を受け、半導体関連として大幅高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "アドテストがカイ気配で水準切り上げる展開に、エヌビディア急騰で風向き変わる（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611240288"
+    },
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    }
+   ]
+  },
+  {
+   "code": "6227",
+   "category": "市況",
+   "reason": "エヌビディア急反発を受けたAI・半導体関連株の一斉高の流れに乗り、リバウンド。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2レーザーテック、AIメカテック、ミタチ産業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250134"
+    }
+   ]
+  },
+  {
+   "code": "268A",
+   "category": "市況",
+   "reason": "半導体株の上昇に連れ高した。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    }
+   ]
+  },
+  {
+   "code": "6323",
+   "category": "市況",
+   "reason": "半導体製造装置株高の流れに乗った。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1イビデン、野村マイクロ・サイエンス、村田製作所など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250128"
+    }
+   ]
+  },
+  {
+   "code": "4165",
+   "category": "需給",
+   "reason": "前週末までの売り地合いが継続した。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2レーザーテック、AIメカテック、ミタチ産業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250134"
+    }
+   ]
+  },
+  {
+   "code": "4933",
+   "category": "材料",
+   "reason": "MBOを発表したが、TOB価格が市場価格を下回るディスカウントとなり、TOB価格にサヤ寄せ。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "Ｉｎｅがウリ気配スタート、ＴＯＢ価格２２４８円でＭＢＯを発表（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611240324"
+    },
+    {
+     "title": "前日に動いた銘柄 part2レーザーテック、AIメカテック、ミタチ産業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250134"
+    }
+   ]
+  },
+  {
+   "code": "3038",
+   "category": "材料",
+   "reason": "10月の単体月次営業利益が2カ月ぶりに前年を下回り、大幅反落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "神戸物産が大幅反落、１０月の個別営業利益が２カ月ぶり前年下回る（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611240734"
+    },
+    {
+     "title": "前日に動いた銘柄 part2レーザーテック、AIメカテック、ミタチ産業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250134"
+    }
+   ]
+  },
+  {
+   "code": "4516",
+   "category": "材料",
+   "reason": "米FDAが生物製剤承認申請に対する審査完了報告通知を発出した。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2レーザーテック、AIメカテック、ミタチ産業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250134"
+    }
+   ]
+  },
+  {
+   "code": "9433",
+   "category": "市況",
+   "reason": "AI関連株への資金シフトで、ディフェンシブ銘柄から資金が流出した。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2レーザーテック、AIメカテック、ミタチ産業など（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250134"
+    }
+   ]
+  },
+  {
+   "code": "3624",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4575",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2334",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "618A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2782",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4586",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "5253",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "7552",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4498",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "8227",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "9697",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
