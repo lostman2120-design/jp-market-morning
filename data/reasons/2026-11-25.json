@@ -1,0 +1,357 @@
+{
+ "data_date": "2026-11-25",
+ "generated_at": "2026-11-27T07:00:00+09:00",
+ "market_summary": "SOX指数の急反落を受け、前日に上昇したアドバンテストやキオクシアなどAI・半導体関連株が一転して売り直されました。一方、リスク回避姿勢からAI株を売って中外製薬など大手製薬株に資金が流入し、医薬品セクターが上昇率トップとなりました（株探・フィスコの記事より）。",
+ "items": [
+  {
+   "code": "4565",
+   "category": "市況",
+   "reason": "医薬品株の上昇が刺激となり、今期営業黒字予想のバイオ株として個人投資家の買いが集まった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ネクセラが上値指向強め年初来高値更新、今期営業黒字予想のバイオ株に個人投資家が買い攻勢（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250709"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "4528",
+   "category": "材料",
+   "reason": "「オプジーボ」を巡るアムジェンとの特許侵害訴訟で和解し、大幅反発。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "小野薬が大幅反発、「オプジーボ」を巡るアムジェンとの特許侵害訴訟で和解（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250624"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "338A",
+   "category": "材料",
+   "reason": "専門知識がなくても秘密計算を使える仕組みの開発が材料視された。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "4527",
+   "category": "材料",
+   "reason": "目薬など多数の品目の値上げ実施を発表し、大幅続伸。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ロートは大幅続伸、５１品目を出荷価格ベースで５～２１％値上げ（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250297"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "4503",
+   "category": "材料",
+   "reason": "白血病治療薬の製造販売権の取得に加え、リスク回避でAI株から大手製薬株への資金流入が追い風。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "中外薬など大手製薬株が大幅高、リスク回避姿勢でＡＩ株から資金流入（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250397"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "4307",
+   "category": "市況",
+   "reason": "ソフトウェア関連株にも資金が回帰した。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "4578",
+   "category": "材料",
+   "reason": "証券会社の目標株価引き上げに加え、リスク回避でAI株から大手製薬株に資金が流入。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "中外薬など大手製薬株が大幅高、リスク回避姿勢でＡＩ株から資金流入（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250397"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "4519",
+   "category": "市況",
+   "reason": "リスク回避姿勢からAI株を売って大手製薬株に資金が流入し、大幅高。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "中外薬など大手製薬株が大幅高、リスク回避姿勢でＡＩ株から資金流入（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250397"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "6834",
+   "category": "市況",
+   "reason": "AI関連株安の流れに押され、データセンター関連としてストップ安。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2アドバンテスト、フジクラ、東京エレクトロンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260117"
+    }
+   ]
+  },
+  {
+   "code": "4165",
+   "category": "需給",
+   "reason": "前日までの売り地合いが継続した。",
+   "confidence": "中",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2アドバンテスト、フジクラ、東京エレクトロンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260117"
+    }
+   ]
+  },
+  {
+   "code": "6525",
+   "category": "市況",
+   "reason": "サムスン電子なども大幅安となる中、半導体製造装置関連として売られ一時ストップ安。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "6227",
+   "category": "市況",
+   "reason": "半導体株安の流れでスタンダード市場の関連銘柄も売られ、ストップ安。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2アドバンテスト、フジクラ、東京エレクトロンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260117"
+    }
+   ]
+  },
+  {
+   "code": "4062",
+   "category": "市況",
+   "reason": "前日ストップ高の後、AI・半導体株が一転売り直される流れで急落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "イビデンが一時１７％安、前日Ｓ高比例配分もＡＩ・半導体株は一転売り直しの流れに（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250351"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "9984",
+   "category": "材料",
+   "reason": "米アンソロピックの公開価格割れでオープンAI上場の不透明感が意識され、急反落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "ソフトバンクＧが急反落、米アンソロピック公開価格割れでオープンＡＩ上場実現巡る不透明感を意識（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250356"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "5803",
+   "category": "材料",
+   "reason": "国内大手証券が来期の減益予想に修正し投資判断を格下げ、急落。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "フジクラが１４％安と急落、国内大手証券は２８年３月期減益予想に修正（株探）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250655"
+    },
+    {
+     "title": "前日に動いた銘柄 part2アドバンテスト、フジクラ、東京エレクトロンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260117"
+    }
+   ]
+  },
+  {
+   "code": "6976",
+   "category": "市況",
+   "reason": "AI関連株安に押され、ストップ安。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "6323",
+   "category": "市況",
+   "reason": "SOX指数の急反落を受け、半導体関連株に売りが広がった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2アドバンテスト、フジクラ、東京エレクトロンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260117"
+    }
+   ]
+  },
+  {
+   "code": "6871",
+   "category": "市況",
+   "reason": "SOX指数の急反落を受け、半導体関連株に売りが広がった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part2アドバンテスト、フジクラ、東京エレクトロンなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260117"
+    }
+   ]
+  },
+  {
+   "code": "6981",
+   "category": "市況",
+   "reason": "前日に上昇したAI関連株に総じて戻り売りが優勢となった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "285A",
+   "category": "市況",
+   "reason": "SOX指数の急反落を受け、半導体関連株に売りが広がった。",
+   "confidence": "高",
+   "sources": [
+    {
+     "title": "キオクシア---大幅反落、SOX指数急反落でAI・半導体関連に売り（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611250452"
+    },
+    {
+     "title": "前日に動いた銘柄 part1 Zenmu、岡県運送、ネクセラファーマなど（株探/フィスコ）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611260111"
+    }
+   ]
+  },
+  {
+   "code": "4598",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "4586",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3697",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "8237",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2585",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "3659",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "2212",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6777",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "6946",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  },
+  {
+   "code": "290A",
+   "category": "不明",
+   "reason": "材料不明（需給・連想買い等の可能性）",
+   "confidence": "低",
+   "sources": []
+  }
+ ]
+}
